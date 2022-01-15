@@ -15,6 +15,7 @@ chapter_03_abstractions branch https://oreil.ly/k6MmV[on GitHub]:
 
 ----
 git clone https://github.com/cosmicpython/code.git
+cd code
 git checkout chapter_03_abstractions
 ----
 ====
